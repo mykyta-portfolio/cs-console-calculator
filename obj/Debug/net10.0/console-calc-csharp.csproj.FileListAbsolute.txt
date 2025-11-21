@@ -1,0 +1,14 @@
+D:\Documents\Семьи\Никита\програмирование\console-calc-csharp\bin\Debug\net10.0\console-calc-csharp.exe
+D:\Documents\Семьи\Никита\програмирование\console-calc-csharp\bin\Debug\net10.0\console-calc-csharp.deps.json
+D:\Documents\Семьи\Никита\програмирование\console-calc-csharp\bin\Debug\net10.0\console-calc-csharp.runtimeconfig.json
+D:\Documents\Семьи\Никита\програмирование\console-calc-csharp\bin\Debug\net10.0\console-calc-csharp.dll
+D:\Documents\Семьи\Никита\програмирование\console-calc-csharp\bin\Debug\net10.0\console-calc-csharp.pdb
+D:\Documents\Семьи\Никита\програмирование\console-calc-csharp\obj\Debug\net10.0\console-calc-csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Семьи\Никита\програмирование\console-calc-csharp\obj\Debug\net10.0\console-calc-csharp.AssemblyInfoInputs.cache
+D:\Documents\Семьи\Никита\програмирование\console-calc-csharp\obj\Debug\net10.0\console-calc-csharp.AssemblyInfo.cs
+D:\Documents\Семьи\Никита\програмирование\console-calc-csharp\obj\Debug\net10.0\console-calc-csharp.csproj.CoreCompileInputs.cache
+D:\Documents\Семьи\Никита\програмирование\console-calc-csharp\obj\Debug\net10.0\console-calc-csharp.dll
+D:\Documents\Семьи\Никита\програмирование\console-calc-csharp\obj\Debug\net10.0\refint\console-calc-csharp.dll
+D:\Documents\Семьи\Никита\програмирование\console-calc-csharp\obj\Debug\net10.0\console-calc-csharp.pdb
+D:\Documents\Семьи\Никита\програмирование\console-calc-csharp\obj\Debug\net10.0\console-calc-csharp.genruntimeconfig.cache
+D:\Documents\Семьи\Никита\програмирование\console-calc-csharp\obj\Debug\net10.0\ref\console-calc-csharp.dll
